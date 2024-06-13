@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T23:52:48.624Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36" etag="16_MfAa2UQX3j_ryuFp4" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T23:54:19.443Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36" etag="RyQH1iPVYq1_ORFLYbSF" version="24.5.4" type="github">
   <diagram name="페이지-1" id="dcfpNvmQOP-24qqCh9O2">
     <mxGraphModel dx="179" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,7 +6,7 @@
         <mxCell id="1" parent="0" />
         <object label="Castle" placeholders="1" Health="10" id="AcH1KkwaZ4632zRfGK9j-1">
           <mxCell style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="280" y="50" width="140" height="70" as="geometry" />
+            <mxGeometry x="280" y="50" width="140" height="90" as="geometry" />
           </mxCell>
         </object>
         <object label="Health" CodeName="Castle" id="AcH1KkwaZ4632zRfGK9j-3">
@@ -14,8 +14,11 @@
             <mxGeometry y="29" width="140" height="21" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="6Jm5LHw3u3zpUN54W5Y7-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="AcH1KkwaZ4632zRfGK9j-1">
+        <mxCell id="6Jm5LHw3u3zpUN54W5Y7-1" value="OnDamage()" style="whiteSpace=wrap;html=1;" vertex="1" parent="AcH1KkwaZ4632zRfGK9j-1">
           <mxGeometry y="50" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Jm5LHw3u3zpUN54W5Y7-4" value="GetInfo()" style="whiteSpace=wrap;html=1;" vertex="1" parent="AcH1KkwaZ4632zRfGK9j-1">
+          <mxGeometry y="70" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
